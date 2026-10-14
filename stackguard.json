@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/nexutils/StackGuard/releases/download/v0.1.0/stackguard_0.1.0_windows_amd64.zip",
+            "bin": [
+                "stackguard.exe"
+            ],
+            "hash": "0ada3d06ac7757d1bc3fbc9eff3d5b0dcb0f7b8e213333eee1ae49239962ce12"
+        },
+        "arm64": {
+            "url": "https://github.com/nexutils/StackGuard/releases/download/v0.1.0/stackguard_0.1.0_windows_arm64.zip",
+            "bin": [
+                "stackguard.exe"
+            ],
+            "hash": "17bb4ec96dd666d31f09089aeaab66bc7ddf9278b3175d9af82f343451365a08"
+        }
+    },
+    "homepage": "https://github.com/nexutils/StackGuard",
+    "license": "Apache-2.0",
+    "description": "Scan infrastructure and deployment configuration for production-readiness issues"
+}
