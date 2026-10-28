@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/nexutils/StackGuard/releases/download/v0.1.0/stackguard_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/nexutils/StackGuard/releases/download/v0.2.0/stackguard_0.2.0_windows_amd64.zip",
             "bin": [
                 "stackguard.exe"
             ],
-            "hash": "0ada3d06ac7757d1bc3fbc9eff3d5b0dcb0f7b8e213333eee1ae49239962ce12"
+            "hash": "53173c10ba71cc0d0b26705ac216bfed46eb1f08652ed69991d301ae5b1a6960"
         },
         "arm64": {
-            "url": "https://github.com/nexutils/StackGuard/releases/download/v0.1.0/stackguard_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/nexutils/StackGuard/releases/download/v0.2.0/stackguard_0.2.0_windows_arm64.zip",
             "bin": [
                 "stackguard.exe"
             ],
-            "hash": "17bb4ec96dd666d31f09089aeaab66bc7ddf9278b3175d9af82f343451365a08"
+            "hash": "3e84da62552532c0b9cb84f56a06e18f550b737da30c611771e9fdc7d42a1515"
         }
     },
     "homepage": "https://github.com/nexutils/StackGuard",
